@@ -13,14 +13,14 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/joaogerliandro/SimpleWebServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleWebServer&theme=midnight-purple&hide_border=true&show_icons=true" alt="SimpleWebServer"></a>
-    <a href="https://github.com/joaogerliandro/SimpleNetworkServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleNetworkServer&theme=midnight-purple&hide_border=true&show_icons=true" alt="SimpleNetworkServer"></a>
-    <a href="https://github.com/joaogerliandro/SimpleNetworkClient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleNetworkClient&theme=midnight-purple&hide_border=true&show_icons=true" alt="SimpleNetworkClient"></a> 
-    <a href="https://github.com/joaogerliandro/PSDS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=PSDS&theme=midnight-purple&hide_border=true&show_icons=true" alt="PSDS"></a> 
-        <a href="https://github.com/joaogerliandro/CXX_ISRS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=CXX_ISRS&theme=midnight-purple&hide_border=true&show_icons=true" alt="CXX_ISRS"></a> 
-    <a href="https://github.com/joaogerliandro/DeepDarkStreets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=DeepDarkStreets&theme=midnight-purple&hide_border=true&show_icons=true" alt="DeepDarkStreets"></a> 
-    <a href="https://github.com/joaogerliandro/sfml-chessboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=sfml-chessboard&theme=midnight-purple&hide_border=true&show_icons=true" alt="sfml-chessboard"></a>
-    <a href="https://github.com/joaogerliandro/DAAS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=DAAS&theme=midnight-purple&hide_border=true&show_icons=true" alt="DAAS"></a>
+    <a href="https://github.com/joaogerliandro/SimpleWebServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleWebServer&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="SimpleWebServer"></a>
+    <a href="https://github.com/joaogerliandro/SimpleNetworkServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleNetworkServer&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="SimpleNetworkServer"></a>
+    <a href="https://github.com/joaogerliandro/SimpleNetworkClient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleNetworkClient&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="SimpleNetworkClient"></a> 
+    <a href="https://github.com/joaogerliandro/PSDS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=PSDS&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="PSDS"></a> 
+        <a href="https://github.com/joaogerliandro/CXX_ISRS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=CXX_ISRS&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="CXX_ISRS"></a> 
+    <a href="https://github.com/joaogerliandro/DeepDarkStreets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=DeepDarkStreets&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="DeepDarkStreets"></a> 
+    <a href="https://github.com/joaogerliandro/sfml-chessboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=sfml-chessboard&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="sfml-chessboard"></a>
+    <a href="https://github.com/joaogerliandro/DAAS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=DAAS&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="DAAS"></a>
   </p>
 
   <a href="https://github.com/joaogerliandro?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -162,15 +162,15 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
-    <a href="https://git.io/streak-stats"><img alt="Joao Gerliandro's Streak" src="https://streak-stats.demolab.com?user=joaogerliandro&theme=midnight-purple" /></a>
+    <a href="https://git.io/streak-stats"><img alt="Joao Gerliandro's Streak" src="https://streak-stats.demolab.com?user=joaogerliandro&theme=midnight-purple&hide_border=true&background=1F222E" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joao Gerliandro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joaogerliandro&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joao Gerliandro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=joaogerliandro&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joao Gerliandro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joaogerliandro&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=1F222E" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joao Gerliandro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=joaogerliandro&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1F222E" height="192px"/></a>
   </p>
   <br/>
 </details>
