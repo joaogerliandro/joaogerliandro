@@ -1,3 +1,4 @@
+<!-- Welcome section -->
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&color=502D7B&center=true&vCenter=true&repeat=false&random=false&width=440&lines=Jo%C3%A3o+Gerliandro" alt="Typing SVG" /></a>
 </p>
@@ -7,8 +8,6 @@
 </p>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/joaogerliandro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/joao-gerliandro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,9 +16,9 @@
   <a href="mailto:joaogerliandro@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!-- Projects section -->
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/joaogerliandro/SimpleWebServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaogerliandro&repo=SimpleWebServer&theme=midnight-purple&hide_border=true&show_icons=true&bg_color=1F222E" alt="SimpleWebServer"></a>
@@ -35,6 +34,7 @@
   <a href="https://github.com/joaogerliandro?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+<!-- Favorite Tools section -->
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -137,6 +137,7 @@
   </p>
 </details>
 
+<!-- Github's Status section -->
 <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
