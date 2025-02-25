@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/joaogerliandro"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=502D7B&center=true&vCenter=true&random=false&width=440&lines=Back-end+software+developer;3%2B+years+of+coding+experience;Cross-platform+apps+and+services;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://github.com/joaogerliandro"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=502D7B&center=true&vCenter=true&random=false&width=440&lines=Full-stack+software+developer;4%2B+years+of+coding+experience;Cross-platform+apps+and+services;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social badges section -->
